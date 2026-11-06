@@ -37,16 +37,17 @@ const images = [
 ];
 
 const captions = [
-  "Cutie 🥹",
-  "Baddie 😎",
-  "Pretty ✨",
-  "My Love 🤍",
-  "Sunshine ☀️",
+  "Baddie",
   "Angel 🪽",
-  "Beautiful 🌸",
-  "Dream Girl 💫",
-  "Queen 👑",
-  "Always You 🫶",
+  "Dreamgirl",
+  "Sweetheart",
+  "Icon",
+  "Stunner",
+  "Babe",
+  "Darling",
+  "Sunshine",
+  "Queen",
+  "Heartbreaker"
 ];
 
 const positions = [
