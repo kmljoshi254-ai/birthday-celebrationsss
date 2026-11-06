@@ -70,7 +70,7 @@ export const HeroSection = () => {
           <br />
           <span className="font-bold">Birthday</span>
           <br/>
-          <span className="font-bold mt-1 mb-2 text-amber-500">Sweety</span>
+          <span className="font-bold mt-1 mb-2 text-amber-500">SweetHeart</span>
         </h1>
 
         {/* Mobile film trail — continuous film strip with zero space between pics and clear separation from headline */}

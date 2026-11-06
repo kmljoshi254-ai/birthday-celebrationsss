@@ -90,7 +90,7 @@ interface Remaining {
   seconds: number;
 }
 
-const TARGET = new Date('2026-08-14T00:00:00+05:30').getTime();
+const TARGET = new Date('2026-11-14T00:00:00+05:30').getTime();
 
 async function getRemaining() {
   const res = await fetch('/api/time', { cache: 'no-store' });
