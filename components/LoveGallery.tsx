@@ -37,8 +37,8 @@ const images = [
 ];
 
 const captions = [
-  "Baddie",
-  "Angel 🪽",
+  "dance",
+  "dance",
   "Dreamgirl",
   "Sweetheart",
   "Icon",
