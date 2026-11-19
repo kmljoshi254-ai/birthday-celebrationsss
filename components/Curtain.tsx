@@ -113,15 +113,15 @@ async function getRemaining() {
   };
 }
 
-/** Default target: Aug 11 2026, 00:00 IST */
+/** Default target: Nov 14 2026, 00:00 IST */
 const DEFAULT_TARGET = new Date(Date.UTC(2026, 11, 11, 0, 0, 0) - (5 * 60 + 30) * 60 * 1000);
 
 type UnitKey = 'days' | 'hours' | 'minutes' | 'seconds';
 
 export default function ShowtimeCountdown({
-  tickerText = 'SAVE THE DATE · NOV 11 ·',
+  tickerText = 'SAVE THE DATE · Nov 14 ·',
   marqueeTitle = 'NOW SHOWING',
-  marqueeSub = "a Pipi production, live Aug 14",
+  marqueeSub = "a Pipi production, live Nov 14",
   doorsText = 'doors open at midnight, IST',
   songSrc,
   songVolume = 0.6,
